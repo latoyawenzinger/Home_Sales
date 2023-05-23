@@ -12,7 +12,7 @@ The goal of this assignment was to successfully use SparkSQL to discover insight
 - What is the average price of a home for each year it was built that has three bedrooms and three bathrooms?
 - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? 
 - What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query (both answered using original and partitioned data).
-- Each runtime was compared between uncached, cached, and cached/partioned data. 
+- Each runtime was compared between uncached, cached, and cached/partitioned data. 
 
 ## Summary
 
