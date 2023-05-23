@@ -20,5 +20,6 @@ The goal of this assignment was to successfully use SparkSQL to discover insight
 ![image](https://github.com/latoyawenzinger/Home_Sales/assets/115582691/bae92fdf-b5a9-40b3-bbdd-bc6ff41940ed)
 ![image](https://github.com/latoyawenzinger/Home_Sales/assets/115582691/ef41299d-6078-48c8-b5b9-e02fb544a753)
 
-
-
+1. Uncached runtime
+2. Cached runtime
+3. Cached/Partitioned runtime
